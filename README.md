@@ -18,4 +18,4 @@ All  what you need is to pass these arguments: x1, y1, x2, y2, Cx, Cy, Cr
 
 If the line crosses the circle, then you'll get both intersection points in F and G.
 
-You can find a good example I did in jsfiddle here
+You can find a good example I did in [jsfiddle](http://jsfiddle.net/rafaelfernandezgis/ku7ru8o6/8/)
