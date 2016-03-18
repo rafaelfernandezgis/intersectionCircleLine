@@ -17,3 +17,5 @@ All  what you need is to pass these arguments: x1, y1, x2, y2, Cx, Cy, Cr
 - Cr: _radius of the circle_
 
 If the line crosses the circle, then you'll get both intersection points in F and G.
+
+You can find a good example I did in jsfiddle here
